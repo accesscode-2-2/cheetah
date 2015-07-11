@@ -5,8 +5,6 @@
 * Team Leader: Jackie
 * Think Piece: TBD
 
-##GOALS FOR UNIT 1 WEEK 0:
-
 ### TEAM GOALS: 
 - Collaborate on five algorithim challenges!
 - Get to class on time!
