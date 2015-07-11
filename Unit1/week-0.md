@@ -11,7 +11,7 @@
 
 ### INDIVIDUAL GOALS:
 * Jackie's Goals: Program for at least thirty minutes every day!
-* Jason's Goal: Go to the gym at least three times a week!
+* Jason's Goal: Gym at least three times a week!
 * Daniel's Goals: Code every day/write a blog for the week!
 * Brian's Goals: Study algorithms!
 * Henna's Goals: Learn PHP!
