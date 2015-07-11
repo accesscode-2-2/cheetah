@@ -15,5 +15,3 @@
 * Daniel's Goals: Code every day/write a blog for the week!
 * Brian's Goals: Study algorithms!
 * Henna's Goals: Learn PHP!
-
-### GROUP GOALS
