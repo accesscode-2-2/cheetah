@@ -3,6 +3,9 @@
     <img src ="https://cloud.githubusercontent.com/assets/12603575/8635523/17d9c398-27f4-11e5-8190-7f078239ccdc.jpg" />
 </div>
 
+->![alt text](https://cloud.githubusercontent.com/assets/12603575/8635523/17d9c398-27f4-11e5-8190-7f078239ccdc.jpg)<-
+
+
 **Contributors:**
 - Brian Blanco
 - Jason Wang
