@@ -16,3 +16,4 @@
 * Brian's Goals: Study algorithms!
 * Henna's Goals: Learn PHP!
 
+### GROUP GOALS
