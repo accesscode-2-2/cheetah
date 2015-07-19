@@ -27,8 +27,8 @@
 - Each person picks an algorithm from (https://www.codechef.com/problems/easy/) or a website of your choice
 
 ### THIS WEEK'S INDIVIDUAL GOALS:
-* Jackie's Goals: Program for at least thirty minutes every day!
-* Jason's Goal: Gym at least three times a week!
-* Daniel's Goals: Code every day/write a blog for the week!
-* Brian's Goals: Study algorithms!
-* Henna's Goals: Learn PHP!
+* Jackie's Goals: Do at least 3 hours total of independent R study beyond the necessary.
+* Jason's Goal: Learn Javascript
+* Daniel's Goals: TBD
+* Brian's Goals: Study algorithms, python, and java.
+* Henna's Goals: Work on atleast one extra UI for iOS
