@@ -1,15 +1,32 @@
-# Week 0 Pod meeting
+# Week 1 Pod meeting
 
-* Date: July 11, 2015
+* Date: July 19, 2015
 * Attendants: Jackie, Jason, Daniel, Brian, Henna
 * Team Leader: Jackie
 * Think Piece: TBD
 
-### TEAM GOALS: 
+### LAST WEEK's TEAM GOALS: 
 - Collaborate on five algorithim challenges!
+-- completed? each person did one of the algorithm challenges
 - Get to class on time!
+--completed? Yes! 
 
-### INDIVIDUAL GOALS:
+### LAST WEEK'S INDIVIDUAL GOALS:
+* Jackie's Goals: Program for at least thirty minutes every day!
+* Completed? R programming a few days and in class programming. Almost!
+* Jason's Goal: Gym at least three times a week!
+* Completed? No, busy.
+* Daniel's Goals: Code every day/write a blog for the week!
+* TBD
+* Brian's Goals: Study algorithms!
+* Completed? Yes, did a program on coursera
+* Henna's Goals: Learn PHP!
+* Completed: Halfway through a course
+
+### THIS WEEK'S TEAM GOALS:
+- Each person picks an algorithm from (https://www.codechef.com/problems/easy/) or a website of your choice
+
+### THIS WEEK'S INDIVIDUAL GOALS:
 * Jackie's Goals: Program for at least thirty minutes every day!
 * Jason's Goal: Gym at least three times a week!
 * Daniel's Goals: Code every day/write a blog for the week!
