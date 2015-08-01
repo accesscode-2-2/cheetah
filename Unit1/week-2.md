@@ -1,4 +1,4 @@
-# Week 1 Pod meeting
+# Week 2 Pod meeting
 
 * Date: July 26, 2015
 * Attendants: Jackie, Jason, Daniel, Brian, Henna
