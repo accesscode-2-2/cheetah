@@ -1,6 +1,6 @@
 # Week 1 Pod meeting
 
-* Date: July 19, 2015
+* Date: July 26, 2015
 * Attendants: Jackie, Jason, Daniel, Brian, Henna
 * Team Leader: Henna
 * Think Piece: TBD
