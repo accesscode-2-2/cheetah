@@ -6,21 +6,19 @@
 * Think Piece: TBD
 
 ### LAST WEEK's TEAM GOALS: 
-- Collaborate on five algorithim challenges!
--- completed? each person did one of the algorithm challenges
-- Get to class on time!
+-- (https://www.codechef.com/problems/SUMTRIAN)
 --completed? Yes! 
 
 ### LAST WEEK'S INDIVIDUAL GOALS:
-* Jackie's Goals: Program for at least thirty minutes every day!
+* Jackie's Goals: Keep doing more R, start python module on teamtreehouse
 * Completed? R programming a few days and in class programming. Almost!
-* Jason's Goal: Gym at least three times a week!
+* Jason's Goal: continue javascript, play around with views and understand exactly what's going on
 * Completed? No, busy.
-* Daniel's Goals: Code every day/write a blog for the week!
+* Daniel's Goals: Complete the blog post
 * TBD
-* Brian's Goals: Study algorithms!
+* Brian's Goals: Study algorithms, python, javawork, and on Objective-C UI
 * Completed? Yes, did a program on coursera
-* Henna's Goals: Learn PHP!
+* Henna's Goals: Make a dynamic table view of images
 * Completed: Halfway through a course
 
 ### THIS WEEK'S TEAM GOALS:
