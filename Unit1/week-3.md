@@ -3,30 +3,24 @@
 * Date: August 2, 2015
 * Attendants: Jackie, Jason, Daniel, Brian, Henna
 * Team Leader: Daniel
-* Think Piece: Ted talk on being wrong
+* Think Piece: TED talk on being wrong
 
 ### LAST WEEK's TEAM GOALS: 
--- (https://www.codechef.com/problems/SUMTRIAN)
---completed? Yes! 
+--completed? Nope, didn't pick an algorithm
 
 ### LAST WEEK'S INDIVIDUAL GOALS:
-* Jackie's Goals: Keep doing more R, start python module on teamtreehouse
-* Completed? R programming a few days and in class programming. Almost!
-* Jason's Goal: continue javascript, play around with views and understand exactly what's going on
-* Completed? No, busy.
-* Daniel's Goals: Complete the blog post
-* TBD
-* Brian's Goals: Study algorithms, python, javawork, and on Objective-C UI
-* Completed? Yes, did a program on coursera
-* Henna's Goals: Make a dynamic table view of images
-* Completed: Halfway through a course
+* Jackie's Goals: Finished project Euler algorithms, but didn't get to Team Treehouse stuff
+* Jason's Goal: learning Javascript ain't easy, figured out more of what was going on in class
+* Daniel's Goals: Complete the blog post -- finished, working on permissions
+* Brian's Goals: Study algorithms, python, javascript -- didn't get to much
+* Henna's Goals: Make a dynamic table view of images -- completed + started a new job
 
 ### THIS WEEK'S TEAM GOALS:
 - Each person picks an algorithm from (https://www.codechef.com/problems/easy/) or a website of your choice
 
 ### THIS WEEK'S INDIVIDUAL GOALS:
-* Jackie's Goals: Do at least 3 hours total of independent R study beyond the necessary.
-* Jason's Goal: Learn Javascript
-* Daniel's Goals: TBD
-* Brian's Goals: Study algorithms, python, and java.
-* Henna's Goals: Work on atleast one extra UI for iOS
+* Jackie's Goals: Start Python module on Team Treehouse
+* Jason's Goal: More Javascript, do research for side project (Google beginner side projects)
+* Daniel's Goals: Implement segmented controller for Pokedex, figure out Tab Bar Controller
+* Brian's Goals: Study algorithms, python, and java
+* Henna's Goals: Figure out the Tab Controller stuff
