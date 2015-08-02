@@ -1,9 +1,9 @@
-# Week 1 Pod meeting
+# Week 3 Pod meeting
 
-* Date: July 19, 2015
+* Date: August 2, 2015
 * Attendants: Jackie, Jason, Daniel, Brian, Henna
-* Team Leader: Jackie
-* Think Piece: TBD
+* Team Leader: Daniel
+* Think Piece: Ted talk on being wrong
 
 ### LAST WEEK's TEAM GOALS: 
 -- (https://www.codechef.com/problems/SUMTRIAN)
