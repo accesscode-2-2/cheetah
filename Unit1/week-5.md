@@ -25,4 +25,4 @@ Partially completed
 * Jason's Goals: Improve on a hw (add more features). 
 * Daniel's Goals: Code everyday. 
 * Brian's Goals: Code everyday. 
-* Henna's Goals: Learn about NSUserdefaults and take more breaks from coding
+* Henna's Goals: Learn about NSUserdefaults and take more breaks from coding.
