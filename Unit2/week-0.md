@@ -11,14 +11,19 @@
 * Pick a useful concept to learn and work on it together! This week's concept is: NSUserDefaults!
 
 ### LAST WEEK'S INDIVIDUAL GOALS:
-* Jackie's Goals: Watch at least 20 min Obj-C Teamtreehouse AND Python Teamtreehouse every day.
-* Jason's Goals:  Code at least 3 days a week. 
-* Daniel's Goals: Code every day, learn 2 other Objective-C concepts (States)
-* Brian's Goals:  Code erryday
-* Henna's Goals: Get better at UI
+* Jackie's Goals: Partially
+* Jason's Goals:  Yes
+* Daniel's Goals: Yes, coded everyday.
+* Brian's Goals:  Yes, coded everyday.
+* Henna's Goals: Kind of.
 
 ### THIS WEEK'S TEAM GOALS:
+* review upcoming concepts
 
 
 ### THIS WEEK'S INDIVIDUAL GOALS:
-
+* Jackie's Goals: coded everyday.
+* Jason's Goals:  code everyday
+* Daniel's Goals: coded everyday.
+* Brian's Goals:  coded everyday.
+* Henna's Goals:coded everyday.
