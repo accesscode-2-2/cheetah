@@ -17,12 +17,12 @@
 * Henna's Goals:  Coded Everyday
 
 ### THIS WEEK'S TEAM GOALS:
-* Support each other in class on the topic that we're learning today via slack.
+* Support each other in class on the topic that we're learning today via slack/in person.
 
 
 ### THIS WEEK'S INDIVIDUAL GOALS:
 * Jackie's Goals: Python everyday, look for internships, plan a meet up.
 * Jason's Goals:  Code every 3 days, apply to internships.
-* Daniel's Goals: code every day; work on side project; apply to 5 internships
-* Brian's Goals:  code every day; revamp and refactor Pokedex
-* Henna's Goals: code every day; write down ideas
+* Daniel's Goals: Code every day; Apply 2 more internship, build 2 project in swift, code everyday.
+* Brian's Goals:  Code every day; refactor at least 1 file on pokedex project.
+* Henna's Goals:  Code every day; improve on core data concept.
