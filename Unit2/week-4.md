@@ -25,4 +25,4 @@
 * Jason's Goals:  Code every day, how to make custom pins
 * Daniel's Goals: project
 * Brian's Goals:  code every day
-* Henna's Goals: code every day; write down ideas.
+* Henna's Goals: code every day; write down ideas
